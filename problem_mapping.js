@@ -6,7 +6,7 @@ problem_mapping = {
                 "total": 10001
             },
             "Java: CountBits.java": {
-                "passed": 0,
+                "passed": 10001,
                 "total": 10001
             },
             "Python: count_bits.py": {
@@ -20,7 +20,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Java: Parity.java": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             },
             "Python: parity.py": {
@@ -34,7 +34,7 @@ problem_mapping = {
                 "total": 10001
             },
             "Java: SwapBits.java": {
-                "passed": 0,
+                "passed": 10001,
                 "total": 10001
             },
             "Python: swap_bits.py": {
@@ -62,10 +62,10 @@ problem_mapping = {
                 "total": 10000
             },
             "Java: ClosestIntSameWeight.java": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             },
-            "Python: closest_int_same_weight.py": { 
+            "Python: closest_int_same_weight.py": {
                 "passed": 0,
                 "total": 10000
             }
@@ -76,7 +76,7 @@ problem_mapping = {
                 "total": 10006
             },
             "Java: PrimitiveMultiply.java": {
-                "passed": 0,
+                "passed": 10006,
                 "total": 10006
             },
             "Python: primitive_multiply.py": {
@@ -90,7 +90,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Java: PrimitiveDivide.java": {
-                "passed": 0,
+                "passed": 9,
                 "total": 10000
             },
             "Python: primitive_divide.py": {
@@ -104,7 +104,7 @@ problem_mapping = {
                 "total": 10002
             },
             "Java: PowerXY.java": {
-                "passed": 0,
+                "passed": 10002,
                 "total": 10002
             },
             "Python: power_x_y.py": {
@@ -118,7 +118,7 @@ problem_mapping = {
                 "total": 19952
             },
             "Java: ReverseDigits.java": {
-                "passed": 0,
+                "passed": 19952,
                 "total": 19952
             },
             "Python: reverse_digits.py": {
@@ -132,7 +132,7 @@ problem_mapping = {
                 "total": 20000
             },
             "Java: IsNumberPalindromic.java": {
-                "passed": 0,
+                "passed": 20000,
                 "total": 20000
             },
             "Python: is_number_palindromic.py": {
@@ -160,7 +160,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Java: RectangleIntersection.java": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             },
             "Python: rectangle_intersection.py": {
@@ -176,7 +176,7 @@ problem_mapping = {
                 "total": 1001
             },
             "Java: EvenOddArray.java": {
-                "passed": 0,
+                "passed": 1001,
                 "total": 1001
             },
             "Python: even_odd_array.py": {
@@ -190,7 +190,7 @@ problem_mapping = {
                 "total": 204
             },
             "Java: DutchNationalFlag.java": {
-                "passed": 0,
+                "passed": 204,
                 "total": 204
             },
             "Python: dutch_national_flag.py": {
@@ -204,7 +204,7 @@ problem_mapping = {
                 "total": 505
             },
             "Java: IntAsArrayIncrement.java": {
-                "passed": 0,
+                "passed": 505,
                 "total": 505
             },
             "Python: int_as_array_increment.py": {
@@ -218,7 +218,7 @@ problem_mapping = {
                 "total": 1000
             },
             "Java: IntAsArrayMultiply.java": {
-                "passed": 0,
+                "passed": 1000,
                 "total": 1000
             },
             "Python: int_as_array_multiply.py": {
@@ -232,7 +232,7 @@ problem_mapping = {
                 "total": 2004
             },
             "Java: AdvanceByOffsets.java": {
-                "passed": 0,
+                "passed": 2004,
                 "total": 2004
             },
             "Python: advance_by_offsets.py": {
@@ -246,7 +246,7 @@ problem_mapping = {
                 "total": 2003
             },
             "Java: SortedArrayRemoveDups.java": {
-                "passed": 0,
+                "passed": 2003,
                 "total": 2003
             },
             "Python: sorted_array_remove_dups.py": {
@@ -260,7 +260,7 @@ problem_mapping = {
                 "total": 402
             },
             "Java: BuyAndSellStock.java": {
-                "passed": 0,
+                "passed": 402,
                 "total": 402
             },
             "Python: buy_and_sell_stock.py": {
@@ -274,7 +274,7 @@ problem_mapping = {
                 "total": 402
             },
             "Java: BuyAndSellStockTwice.java": {
-                "passed": 0,
+                "passed": 402,
                 "total": 402
             },
             "Python: buy_and_sell_stock_twice.py": {
@@ -414,7 +414,7 @@ problem_mapping = {
                 "total": 745
             },
             "Java: IsValidSudoku.java": {
-                "passed": 0,
+                "passed": 745,
                 "total": 745
             },
             "Python: is_valid_sudoku.py": {
@@ -428,7 +428,7 @@ problem_mapping = {
                 "total": 51
             },
             "Java: SpiralOrdering.java": {
-                "passed": 0,
+                "passed": 51,
                 "total": 51
             },
             "Python: spiral_ordering.py": {
@@ -442,7 +442,7 @@ problem_mapping = {
                 "total": 51
             },
             "Java: MatrixRotation.java": {
-                "passed": 0,
+                "passed": 51,
                 "total": 51
             },
             "Python: matrix_rotation.py": {
@@ -456,7 +456,7 @@ problem_mapping = {
                 "total": 35
             },
             "Java: PascalTriangle.java": {
-                "passed": 0,
+                "passed": 35,
                 "total": 35
             },
             "Python: pascal_triangle.py": {
@@ -472,7 +472,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Java: IsStringPalindromic.java": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             },
             "Python: is_string_palindromic.py": {
@@ -486,7 +486,7 @@ problem_mapping = {
                 "total": 15002
             },
             "Java: StringIntegerInterconversion.java": {
-                "passed": 0,
+                "passed": 15002,
                 "total": 15002
             },
             "Python: string_integer_interconversion.py": {
@@ -500,7 +500,7 @@ problem_mapping = {
                 "total": 20001
             },
             "Java: ConvertBase.java": {
-                "passed": 0,
+                "passed": 20001,
                 "total": 20001
             },
             "Python: convert_base.py": {
@@ -514,7 +514,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Java: SpreadsheetEncoding.java": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             },
             "Python: spreadsheet_encoding.py": {
@@ -528,7 +528,7 @@ problem_mapping = {
                 "total": 501
             },
             "Java: ReplaceAndRemove.java": {
-                "passed": 0,
+                "passed": 501,
                 "total": 501
             },
             "Python: replace_and_remove.py": {
@@ -542,7 +542,7 @@ problem_mapping = {
                 "total": 305
             },
             "Java: IsStringPalindromicPunctuation.java": {
-                "passed": 0,
+                "passed": 305,
                 "total": 305
             },
             "Python: is_string_palindromic_punctuation.py": {
@@ -556,7 +556,7 @@ problem_mapping = {
                 "total": 103
             },
             "Java: ReverseWords.java": {
-                "passed": 0,
+                "passed": 103,
                 "total": 103
             },
             "Python: reverse_words.py": {
@@ -570,7 +570,7 @@ problem_mapping = {
                 "total": 40
             },
             "Java: LookAndSay.java": {
-                "passed": 0,
+                "passed": 40,
                 "total": 40
             },
             "Python: look_and_say.py": {
@@ -584,7 +584,7 @@ problem_mapping = {
                 "total": 3999
             },
             "Java: RomanToInteger.java": {
-                "passed": 0,
+                "passed": 3999,
                 "total": 3999
             },
             "Python: roman_to_integer.py": {
@@ -598,7 +598,7 @@ problem_mapping = {
                 "total": 10008
             },
             "Java: ValidIpAddresses.java": {
-                "passed": 0,
+                "passed": 10008,
                 "total": 10008
             },
             "Python: valid_ip_addresses.py": {
@@ -612,7 +612,7 @@ problem_mapping = {
                 "total": 500
             },
             "Java: SnakeString.java": {
-                "passed": 0,
+                "passed": 500,
                 "total": 500
             },
             "Python: snake_string.py": {
@@ -626,7 +626,7 @@ problem_mapping = {
                 "total": 200
             },
             "Java: RunLengthCompression.java": {
-                "passed": 0,
+                "passed": 200,
                 "total": 200
             },
             "Python: run_length_compression.py": {
@@ -1984,7 +1984,7 @@ problem_mapping = {
                 "total": 102
             },
             "Java: PhoneNumberMnemonic.java": {
-                "passed": 0,
+                "passed": 102,
                 "total": 102
             },
             "Python: phone_number_mnemonic.py": {

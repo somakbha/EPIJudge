@@ -1,0 +1,37 @@
+Signed Left Shift	<<	The left shift operator moves all bits by a given number of bits to the left.
+Signed Right Shift	>>	The right shift operator moves all bits by a given number of bits to the right.
+Unsigned Right Shift	>>>	It is the same as the signed right shift, but the vacant leftmost position is filled with 0 instead of the sign bit.
+
+x>>2=right shift, divide by 2
+
+x<,2=left shift, multiplied by 2
+
+The XOR of two one-bit numbers is their sum modulo 2.
+
+
+y = x & ~(x-1),(EPI page 38, this will set only the lowest bit) x and x-1 differs 
+in all the bits to the right of the lowest bit of x set to 1. Left side of lowest bit set to 1 at x is same as x-1.
+so ~ of x-1 and then & with x-1 keep only the lowest bit set
+
+if x = (00101100), then x-1 = (00101011), ~(x -1) = (11010100),
+and y = (00101100) & (11010100) = (00000100).
+
+if we do x xor y now, it removes the lowest bit from x.
+
+The expression x & (x - 1) clears the lowest set bit in x.
+The expression x & ~(x - 1) extracts the lowest set bit of x.
+
+The xor operation with 1 helps to flip a particular bit in the number 
+for example 10110 ^ 1<<3 = 11110 (flips the 3rd bit of the number 10110)
+
+
+To get the exact number of digits of the base b, representation of n, where n is a positive integer, observe that n  has k digits if and only if b^k−1≤n<b^k
+, since b^k is the smallest integer to have k+1 digits. This is equivalent to the inequality k−1≤log n/log b<k, i.e., to Math.floor(log n/log b)=k−1, or 
+k=Math.floor(log n/log b)+1. refer https://math.stackexchange.com/a/593687. In java, apply this code to find out number of digits in a number: 
+
+int totDigit=(int)Math.floor(Math.log10(n))+1;
+
+
+https://leetcode.com/discuss/study-guide/1487055/completed-guide-on-bitwise-operators
+https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
+https://leetcode.com/discuss/general-discussion/1073221/All-about-Bitwise-Operations-Beginner-Intermediate
